@@ -1,2 +1,2 @@
-# NIH_Library_training_git
-NIH_Library_training_git
+# NIH_Library_training_github
+NIH_Library_training_github
